@@ -8,4 +8,4 @@
 
 *By learning to use GitHub, I hope to become better at deaign, coding, learning new languages in coding, and collaborating with others.*
 
-! [picture] (
+! [picture] (<img src="blob:chrome-untrusted://media-app/2bed3a7b-b6c7-4cd3-8713-9a5ed49be622" alt="Screenshot_2025-07-01_4.39.20_PM-removebg-preview.png"/>![image](https://github.com/user-attachments/assets/68ace581-4f97-4697-97e9-622c9f52bee0)
