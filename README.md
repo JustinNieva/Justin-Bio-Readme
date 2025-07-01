@@ -6,6 +6,6 @@ Hi, my name is Justin. I'm currently learning about technology and how to use to
 
 ## :dart: What I Hope to Achieve
 
-By learning to use GitHub, I hope to become better at deaign, coding, learning new languages in coding, and collaborating with others.
+*By learning to use GitHub, I hope to become better at deaign, coding, learning new languages in coding, and collaborating with others.*
 
 ! [picture] (
